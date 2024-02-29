@@ -1,22 +1,22 @@
-# [Your Project Title Here]
+# Title: Historical Ecosystem Modelling: Using neural networks to predict evolution of life
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/joshimudit/HEMA/tree/main]
 
 ## Description
 
-[Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
+In this project, we use neural network regression to train a model to predict Species richness globally in response to climatic variables. We aim to make a baseline mode, and then make it more robust to increase its accuracy. This model is then used to predict Species richness values in other climatic scenarios.
 
 ### Task Type
 
-[Image Classification / Chatbot / Regression / Clustering / Other]
+Regression 
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Model 2 (with the addition of extra hidden layers, and addition of dropout layers, over the baseline model)
+- **Evaluation Metric:** R squared (r2)
+- **Result:** r-squared = 0.9357 (93.57% accuracy)
 
 ## Documentation
 
